@@ -1,3 +1,5 @@
+
+
 Demini is an open source multi-purpose Discord bot which combines conversational AI (powered by Google Gemini) with voice channel music playback via discord.py, davey (DAVE audio), yt-dlp and FFmpeg. You can mention Demini in a server or send a DM to chat, or use slash commands to stream audio and test out the voice playback.
 
 Features
